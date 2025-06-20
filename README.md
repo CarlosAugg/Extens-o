@@ -73,11 +73,3 @@ O código está organizado de forma modular para facilitar a manutenção e esca
     ```
 
 4.  Aguarde o Metro Bundler iniciar e escaneie o QR Code exibido no terminal com o app Expo Go.
-
----
-
-### 🔮 Próximos Passos (Possíveis Melhorias)
-
--   **Finalizar a Ação da Lista de Compras:** Implementar a lógica para dar entrada no estoque dos itens comprados.
--   **Histórico de Movimentação:** Adicionar uma UI para visualizar o histórico de entradas e saídas de cada produto.
--   **Dashboard com Gráficos:** Criar uma tela de relatórios com visualizações gráficas sobre o inventário.
