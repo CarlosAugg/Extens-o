@@ -58,7 +58,7 @@ O código está organizado de forma modular para facilitar a manutenção e esca
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+    git clone https://github.com/CarlosAugg
     cd SEU-REPOSITORIO
     ```
 
