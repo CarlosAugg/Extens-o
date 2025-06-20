@@ -58,8 +58,7 @@ O código está organizado de forma modular para facilitar a manutenção e esca
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/CarlosAugg
-    cd SEU-REPOSITORIO
+    git clone https://github.com/CarlosAugg/Extens-o
     ```
 
 2.  **Instale as dependências:**
