@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "AppInventario",
+    "slug": "AppInventario",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "myapp",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O aplicativo precisa de acesso às suas fotos para você poder selecionar uma imagem para o produto.",
+          "cameraPermission": "O aplicativo precisa de acesso à sua câmera para você poder tirar uma foto para o produto."
+        }
+      ]
+    ]
+  }
+}
